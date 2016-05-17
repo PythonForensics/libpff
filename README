@@ -1,3 +1,6 @@
+***This repository is in place to snapshot the required libpff version for the book Learning Python for Forensics. More information at [PacktPub.com](bit.ly/py4n6book)***
+
+
 libpff is a library to access the Personal Folder File (PFF) and the Offline Folder File (OFF) format.
 
 These format are used by Microsoft Outlook to store email, contacts and other data.
