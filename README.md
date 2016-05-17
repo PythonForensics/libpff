@@ -1,5 +1,6 @@
 ***This repository is in place to snapshot the required libpff version for the book Learning Python for Forensics. More information at [PacktPub.com](bit.ly/py4n6book)***
 
+*This repository was created and tested for use within Ubuntu 14.04 systems.*
 
 libpff is a library to access the Personal Folder File (PFF) and the Offline Folder File (OFF) format.
 
